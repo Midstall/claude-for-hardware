@@ -1,0 +1,24 @@
+{
+  "name": "claude-for-hardware",
+  "description": "Skills for hardware design, bring-up, verification, and tapeout: HDL modules, SoC integration, FPGA and bare-metal bring-up, differential verification, codegen validation, tapeout precheck, and Nix EDA packaging",
+  "version": "0.1.0",
+  "author": {
+    "name": "Midstall",
+    "email": "inquire@midstall.com"
+  },
+  "homepage": "https://github.com/Midstall/claude-for-hardware",
+  "repository": "https://github.com/Midstall/claude-for-hardware",
+  "license": "MIT",
+  "keywords": [
+    "hardware",
+    "rtl",
+    "fpga",
+    "asic",
+    "tapeout",
+    "verification",
+    "bring-up",
+    "risc-v",
+    "nix",
+    "skills"
+  ]
+}
