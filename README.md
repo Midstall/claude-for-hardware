@@ -14,6 +14,7 @@ failures should fail, fix the root cause, test like it's going to silicon.
 | Skill | Use when |
 |-------|----------|
 | `hdl-module-design` | Writing or refactoring an HDL module and you need it parameterized, validated, and testable |
+| `reference-driven-rohd` | Implementing a block/protocol/peripheral in ROHD and you should fetch the spec, references, and reusable libs first instead of writing from memory |
 | `rohd-rtl-gotchas` | Building or testing RTL in ROHD/rohd_bridge/rohd_hcl and hitting hierarchy, sim-setup, or SV-emission errors |
 | `soc-integration` | Composing an SoC from peripherals and a bus, or generating device trees / ACPI from one description |
 | `rtl-area-timing` | Optimizing RTL microarchitecture for area or Fmax when a design won't fit or meet timing |
